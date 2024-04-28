@@ -1,2 +1,2 @@
 # Test
-Test for jenkins
+Test for jenkins updated to run SCM build.
